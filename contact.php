@@ -84,23 +84,25 @@
 
 <!-- Map Section -->
 <section class="map">
-  <div class="container">
-    <div class="row">
-      <div class="col-xl-12">
-        <div style="width:100%; height:450px;">
-          <iframe 
-            src="https://maps.app.goo.gl/1xUxCFcwxEH2915T6"
-            width="100%" 
-            height="100%" 
-            style="border:0;" 
-            allowfullscreen="" 
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade">
-          </iframe>
-        </div>
-      </div>
-    </div>
-  </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div style="width:100%; height:450px;">
+                    <iframe
+                        width="100%"
+                        height="100%"
+                        style="border:0;"
+                        loading="lazy"
+                        allowfullscreen
+                        referrerpolicy="no-referrer-when-downgrade"
+                        src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDUMMYKEY
+                            &q=-8.6150363,116.1228922
+                            &zoom=16">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
 <!-- Contact Section -->
