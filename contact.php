@@ -84,23 +84,23 @@
 
 <!-- Map Section -->
 <section class="map">
-  <div class="container">
-    <div class="row">
-      <div class="col-xl-12">
-        <div style="width:100%; height:450px;">
-          <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.1824105292823!2d116.40855977492284!3d-8.530501687427267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcdb4dfeb2d4c03%3A0xc7daa5ea18284d88!2sSembalun%20Lombok!5e0!3m2!1sen!2sid!4v1709200000000"
-            width="100%" 
-            height="100%" 
-            style="border:0;" 
-            allowfullscreen="" 
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade">
-          </iframe>
-        </div>
-      </div>
-    </div>
-  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-12">
+        <div style="width:100%; height:450px;">
+          <iframe 
+            src="https://maps.app.goo.gl/1xUxCFcwxEH2915T6"
+            width="100%" 
+            height="100%" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 <!-- Contact Section -->
